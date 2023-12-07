@@ -1,9 +1,12 @@
 ### IntelliJ IDEA ###
-/.idea
-./.idea
-.idea
+./.idea/
+/.idea/
 .idea/
+./out/
+/out/
 out/
+/.idea
+.idea
 !**/src/main/**/out/
 !**/src/test/**/out/
 
