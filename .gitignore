@@ -2,7 +2,7 @@
 /.idea
 ./.idea
 .idea
-.idea/misc.xml
+.idea/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
