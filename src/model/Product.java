@@ -1,5 +1,4 @@
 package model;
-
 import enums.ActionLetter;
 
 public class Product {
